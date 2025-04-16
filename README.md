@@ -3,8 +3,11 @@
 This repository is primarily for the sharing of playermodel development resources on the V-RP playermodel base.
 
 ## Bodygroups
+|   Bodygroup           |   Textures                                                                |
+|-----------------------|---------------------------------------------------------------------------|
+|   arc_backpack.smd    |   arc_accessories    |
 
 ## Texture Maps
-|   Texture         |   Bodygroups          |
-|-------------------|-----------------------|
-|   arc_accessories |   arc_backpack.smd    |
+|   Texture             |   Bodygroups                                                              |
+|-----------------------|---------------------------------------------------------------------------|
+|   arc_accessories     |   arc_backpack.smd    |
