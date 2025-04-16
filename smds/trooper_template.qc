@@ -4,32 +4,36 @@ $modelname "COMMUNITY\DEVELOPER\REGIMENT\MODEL.mdl"
 
 $bodygroup "Body"
 {
-	studio "trooper_bodyfixedarm.smd"
+	studio "trooper_body_shoulder.smd"
 }
 $bodygroup "Helmet"
 {
 	studio "trooper_helmet.smd"
+	studio "arf_helmet.smd"
+	studio "spec_helmet.smd"
+	studio "arc_helmet.smd"
 	studio "trooper_head.smd"
 }
-$bodygroup "binos"
+$bodygroup "Helmet Front Attachment"
 {
 	blank
-	studio "trooper_binosup.smd"
-	studio "trooper_binosdown.smd"
+	studio "trooper_binos_up.smd"
+	studio "trooper_binos_down.smd"
 }
-$bodygroup "flashlighthelmet"
+$bodygroup "Helmet Side Attachment"
 {
 	blank
 	studio "trooper_flashlight.smd"
 }
-$bodygroup "backpack"
+$bodygroup "Back Attachment"
 {
 	blank
-	studio "backpack.smd"
-	studio "strap.smd"
-	studio "jetpack.smd"
+	studio "trooper_backpack.smd"
+	studio "trooper_jetpack.smd"
+	studio "spec_backpack.smd"
+	studio "gun_backstrap.smd"
 }
-$bodygroup "hair"
+$bodygroup "Hair"
 {
 	blank
 	studio "hair_reg.smd"
@@ -44,7 +48,7 @@ $bodygroup "hair"
 	studio "hair_long2.smd"
 	studio "hair_slick.smd"
 }
-$bodygroup "fhair"
+$bodygroup "Facial Hair"
 {
 	blank
 	studio "fhair.smd"
@@ -66,17 +70,8 @@ $ambientboost
 
 $mostlyopaque
 
-$cdmaterials "ct_trp\"
+$cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\MODEL\"
 $cdmaterials "ct_shared\"
-
-$texturegroup "skinfamilies"
-{
-	{ "CloneHead"  }
-	{ "CloneHead1" }
-	{ "CloneHead2" }
-	{ "CloneHead3" }
-	{ "CloneHead4" }
-}
 
 $attachment "mouth" "ValveBiped.Bip01_Head1" 0.6 -5.5 0 rotate 0 -80 -90
 $attachment "chest" "ValveBiped.Bip01_Spine2" 5 4 0 rotate 0 90 90
@@ -176,7 +171,7 @@ $ikautoplaylock "rfoot" 1 0.1
 $ikautoplaylock "lfoot" 1 0.1
 
 $sequence "ragdoll" {
-	"pm_ct_trp_anims\ragdoll.smd"
+	"trooper_anims\ragdoll.smd"
 	activity "ACT_DIERAGDOLL" 1
 	fadein 0.2
 	fadeout 0.2
@@ -189,7 +184,7 @@ $sequence "ragdoll" {
 
 $includemodel "m_anm.mdl"
 
-$collisionjoints "pm_ct_trp_physics.smd"
+$collisionjoints "trooper_physics.smd"
 {
 	$mass 0
 	$inertia 10
