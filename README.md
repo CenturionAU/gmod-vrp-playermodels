@@ -30,6 +30,7 @@ This repository is primarily for the sharing of playermodel development resource
 |   pilot_helmet            |   pilot_helmet.smd
 |   pilot_helmet_extension  |   pilot_helmet.smd
 |   rangefinder             |   arc_rangefinder_down.smd<br>arc_rangefinder_up.smd<br>trooper_rangefinder_down.smd<br>trooper_rangefinder_up.smd
+|   shoulder_antenna        |   shoulder_antenna.smd
 |   snow_body               |   spec_helmet_antenna.smd<br>spec_backpack.smd
 |   spec_helmet             |   spec_helmet.smd
 |   spec_helmet_extension        |   spec_helmet.smd
