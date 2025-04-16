@@ -32,7 +32,7 @@ This repository is primarily for the sharing of playermodel development resource
 |   rangefinder             |   arc_rangefinder_down.smd<br>arc_rangefinder_up.smd<br>trooper_rangefinder_down.smd<br>trooper_rangefinder_up.smd
 |   snow_body               |   spec_helmet_antenna.smd<br>spec_backpack.smd
 |   spec_helmet             |   spec_helmet.smd
-|   spec_helmet_ears        |   spec_helmet.smd
+|   spec_helmet_extension        |   spec_helmet.smd
 |   sunvisor                |   trooper_sunvisor.smd
 |   trooper_backpack        |   trooper_backpack.smd
 |   trooper_body            |   arms_trooper.smd<br>arms_arc.smd<br>trooper_body_shoulder.smd
