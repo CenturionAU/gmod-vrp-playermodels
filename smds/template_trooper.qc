@@ -54,7 +54,7 @@ $ambientboost
 $mostlyopaque
 
 $cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\MODEL\"
-$cdmaterials "ct_shared\"
+$cdmaterials "cn\centurion\shared\"
 
 $attachment "mouth" "ValveBiped.Bip01_Head1" 0.6 -5.5 0 rotate 0 -80 -90
 $attachment "chest" "ValveBiped.Bip01_Spine2" 5 4 0 rotate 0 90 90
