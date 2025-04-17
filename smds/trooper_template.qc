@@ -14,25 +14,8 @@ $bodygroup "Helmet"
 	studio "arc_helmet.smd"
 	studio "trooper_head.smd"
 }
-$bodygroup "Helmet Front Attachment"
-{
-	blank
-	studio "trooper_binos_up.smd"
-	studio "trooper_binos_down.smd"
-}
-$bodygroup "Helmet Side Attachment"
-{
-	blank
-	studio "trooper_flashlight.smd"
-}
-$bodygroup "Back Attachment"
-{
-	blank
-	studio "trooper_backpack.smd"
-	studio "trooper_jetpack.smd"
-	studio "spec_backpack.smd"
-	studio "gun_backstrap.smd"
-}
+$bodygroup
+
 $bodygroup "Hair"
 {
 	blank
