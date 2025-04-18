@@ -17,7 +17,8 @@ A Substance project file can be found in the repo's releases containing the impo
 
 ## Bodygroups
 <details>
-This table lists the renamed bodygroups and their associated textures.
+
+This table lists the renamed bodygroups and their associated textures.<br>
 
 |   Bodygroup                           |   Texture Maps                                                |
 |---------------------------------------|---------------------------------------------------------------|
@@ -61,7 +62,8 @@ This table lists the renamed bodygroups and their associated textures.
 
 ## Texture Maps
 <details>
-This table lists the renamed texture maps and their associated bodygroups.
+
+This table lists the renamed texture maps and their associated bodygroups.<br>
 
 |   Texture Map                         |   Bodygroups                                                  |
 |---------------------------------------|---------------------------------------------------------------|
