@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_shared/bcr_attachments_set5"
+                $nocull 1
+}

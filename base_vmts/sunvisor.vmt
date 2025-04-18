@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_heavy/sunvisor"
+                $nocull 1
+           $selfillum 1
+           $selfillummask "ct_shared/glow" 
+}

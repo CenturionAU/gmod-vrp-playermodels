@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_evo/cap"
+                $nocull 1
+}

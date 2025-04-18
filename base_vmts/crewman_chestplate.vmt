@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_gunner/tank_gunner_chest"
+                $nocull 1
+}

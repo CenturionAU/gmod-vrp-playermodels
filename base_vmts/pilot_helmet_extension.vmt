@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_pilot/pilottex2"
+                $nocull 1
+}

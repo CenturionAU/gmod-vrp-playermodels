@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_shared/21st_trooper_shoulderant"
+                $nocull 1
+}

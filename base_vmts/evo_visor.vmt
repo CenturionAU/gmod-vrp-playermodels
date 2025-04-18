@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_evo/mask"
+	$bumpmap "ct_shared/normal_8x8"
+	$phong "1"
+    		$phongexponent "1"
+			$phongboost "2"
+			$phongfresnelranges "[0 0.7 1]"
+    		$basemapalphaphongmask "1"
+    		$basemapluminancephongmask "0"
+    		$phongalbedotint "1"
+	$nocull 1
+}

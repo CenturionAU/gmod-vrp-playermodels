@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_arc/arcforearm"
+                $nocull 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_arc/arcmagplating"
+                $nocull 1
+}

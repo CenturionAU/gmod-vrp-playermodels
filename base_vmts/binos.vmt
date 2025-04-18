@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "cg_shared/ph2binos"
+                $nocull 1
+}

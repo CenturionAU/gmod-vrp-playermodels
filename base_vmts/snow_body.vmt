@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_comms/501st_body_snow"
+                $nocull 1
+}

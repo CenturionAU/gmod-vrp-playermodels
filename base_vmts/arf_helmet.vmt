@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_arf/arfhelmet2"
+                $nocull 1
+}

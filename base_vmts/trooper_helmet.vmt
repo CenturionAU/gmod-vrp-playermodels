@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ct_shared/Helmet"
+                $nocull 1
+}
