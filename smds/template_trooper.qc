@@ -12,9 +12,93 @@ $bodygroup "Helmet"
 	studio "arf_helmet.smd"
 	studio "spec_helmet.smd"
 	studio "arc_helmet.smd"
+	studio "pilot_helmet.smd
 	studio "trooper_head.smd"
 }
-$bodygroup
+bodygroup "Helmet Attachments"
+{
+	blank
+	studio "trooper_binos_up.smd"
+	studio "trooper_binos_down.smd"
+	studio "trooper_sunvisor.smd"
+}
+$bodygroup "Spec Helmet Antenna"
+{
+	blank
+	studio "spec_helmet_antenna.smd"
+}
+$bodygroup "Helmet Flashlight"
+{
+	blank
+	studio "trooper_flashlight.smd"
+}
+bodygroup "Crewman Cap"
+{
+	blank
+	studio "crewman_cap.smd"
+}
+$bodygroup "Rangefinder"
+{
+	blank
+	studio "trooper_rangefinder_up.smd"
+	studio "trooper_rangefinder_down.smd"
+	studio "arc_rangefinder_up.smd"
+	studio "arc_rangefinder_down.smd"
+}
+$bodygroup "ARC Forearms"
+{
+	blank
+	studio "arc_forearms.smd"
+}
+$bodygroup "Back Attachment"
+{
+	blank
+	studio "trooper_backpack.smd"
+	studio "gun_back.smd"
+	studio "trooper_jetpack.smd"
+	studio "spec_backpack.smd"
+	studio "arc_backpack.smd"
+}
+$bodygroup "Chest Attachment"
+{
+	blank
+	studio "trooper_pauldron.smd"
+	studio "crewman_armour.smd"
+	studio "arc_pauldron_chestplate.smd"
+}
+$bodygroup "Shoulder Antenna"
+{
+	blank
+	studio "shoulder_antenna.smd"
+}
+$bodygroup "Leg Attachments"
+{
+	blank
+	studio "trooper_kama.smd"
+	studio "arc_kama_legs.smd"
+}
+$bodygroup "Holster Left"
+{
+	blank
+	studio "leg_holster_left.smd"
+	studio "kama_holstrer_left.smd"
+}
+$bodygroup "Holster Right"
+{
+	blank
+	studio "leg_holster_right.smd"
+	studio "kama_holster_right.smd"
+}
+$bodygroup "Gun Sling"
+{
+	blank
+	studio "gun_sling.smd"
+}
+$bodygroup "Belt Pouches"
+{
+	blank
+	studio "arc_belt_pouches.smd"
+}
 
 $bodygroup "Hair"
 {
@@ -54,7 +138,7 @@ $ambientboost
 $mostlyopaque
 
 $cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\MODEL\"
-$cdmaterials "cn\centurion\shared\"
+$cdmaterials "vrp\vmt\shared\"
 
 $attachment "mouth" "ValveBiped.Bip01_Head1" 0.6 -5.5 0 rotate 0 -80 -90
 $attachment "chest" "ValveBiped.Bip01_Spine2" 5 4 0 rotate 0 90 90
