@@ -13,6 +13,9 @@ layout to be easily imported into Subsance 3D Painter with the ```textures_pngs\
 the renamed and default base textures in PNG format to unable the setup of a convenient workspace for<br>
 painting new designs.
 
+The ```base_vmts``` folder contains all renamed and base VMTs pointing towards the base textures in the<br>
+V-RP base pack.
+
 A Substance project file can be found in the repo's releases containing the imported .obj and base textures.
 
 ## Bodygroups
