@@ -1,10 +1,10 @@
 // Created by Crowbar 0.71
 
-$modelname "COMMUNITY\DEVELOPER\REGIMENT\MODEL_arms_evo.mdl"
+$modelname "COMMUNITY\DEVELOPER\REGIMENT\REGIMENT_MODEL_arms_evo.mdl"
 
-$bodygroup "arm"
+$bodygroup "Arms"
 {
-	studio "arm.smd"
+	studio "arms_evo.smd"
 }
 
 
@@ -16,8 +16,8 @@ $illumposition -0.033 9.154 36.15
 
 $opaque
 
-$cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\MODEL\"
-$cdmaterials "cn\centurion\shared\"
+$cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\REGIMENT_MODEL\"
+$cdmaterials "cn\centurion\base_vmts\"
 
 $cbox 0 0 0 0 0 0
 

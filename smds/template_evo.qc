@@ -1,6 +1,6 @@
 // Created by Crowbar 0.71
 
-$modelname "COMMUNITY\DEVELOPER\REGIMENT\MODEL.mdl"
+$modelname "COMMUNITY\DEVELOPER\REGIMENT\REGIMENT_MODEL_evo.mdl"
 
 $bodygroup "Body"
 {
@@ -9,9 +9,9 @@ $bodygroup "Body"
 $bodygroup "Helmet"
 {
 	studio "evo_helmet.smd"
-	studio "evo_trooper_head.smd"
+	studio "trooper_head.smd"
 }
-$bodygroup "hair"
+$bodygroup "Hair"
 {
 	blank
 	studio "hair_reg.smd"
@@ -26,7 +26,7 @@ $bodygroup "hair"
 	studio "hair_long2.smd"
 	studio "hair_slick.smd"
 }
-$bodygroup "fhair"
+$bodygroup "Facial Hair"
 {
 	blank
 	studio "fhair.smd"
@@ -48,8 +48,8 @@ $ambientboost
 
 $mostlyopaque
 
-$cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\MODEL\"
-$cdmaterials "cn\centurion\shared\"
+$cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\REGIMENT_MODEL\"
+$cdmaterials "cn\centurion\base_vmts\"
 
 $attachment "mouth" "ValveBiped.Bip01_Head1" 0.6 -5.5 0 rotate 0 -80 -90
 $attachment "chest" "ValveBiped.Bip01_Spine2" 5 4 0 rotate 0 90 90

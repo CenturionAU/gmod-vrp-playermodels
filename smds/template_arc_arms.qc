@@ -1,10 +1,10 @@
 // Created by Crowbar 0.71
 
-$modelname "COMMUNITY\DEVELOPER\REGIMENT\MODEL_arms_arc.mdl"
+$modelname "COMMUNITY\DEVELOPER\REGIMENT\REGIMENT_MODEL_arms_arc.mdl"
 
 $bodygroup "Arms"
 {
-	studio "arm.smd"
+	studio "arms_arc.smd"
 }
 
 
@@ -18,8 +18,8 @@ $ambientboost
 
 $mostlyopaque
 
-$cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\MODEL\"
-$cdmaterials "cn\centurion\shared\"
+$cdmaterials "COMMUNITY\DEVELOPER\REGIMENT\REGIMENT_MODEL\"
+$cdmaterials "cn\centurion\base_vmts\"
 
 $attachment "mouth" "ValveBiped.Bip01_Head1" 0.6 -5.5 0 rotate 0 -80 -90
 $attachment "chest" "ValveBiped.Bip01_Spine2" 5 4 0 rotate 0 90 90

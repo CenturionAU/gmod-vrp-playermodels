@@ -8,10 +8,7 @@ $bodygroup "Body"
 }
 $bodygroup "Helmet"
 {
-	studio "trooper_helmet.smd"
-	studio "arf_helmet.smd"
-	studio "spec_helmet.smd"
-	studio "pilot_helmet.smd"
+	studio "arc_helmet.smd"
 	studio "trooper_head.smd"
 }
 $bodygroup "Helmet Attachments"
@@ -21,72 +18,39 @@ $bodygroup "Helmet Attachments"
 	studio "trooper_binos_down.smd"
 	studio "trooper_sunvisor.smd"
 }
-$bodygroup "Spec Helmet Antenna"
-{
-	blank
-	studio "spec_helmet_antenna.smd"
-}
 $bodygroup "Helmet Flashlight"
 {
 	blank
 	studio "trooper_flashlight.smd"
 }
-$bodygroup "Crewman Cap"
-{
-	blank
-	studio "crewman_cap.smd"
-}
 $bodygroup "Rangefinder"
 {
+	studio "arc_rangefinder_up.smd"
+	studio "arc_rangefinder_down.smd"
 	blank
-	studio "trooper_rangefinder_up.smd"
-	studio "trooper_rangefinder_down.smd"
 }
 $bodygroup "Back Attachment"
 {
-	blank
+	studio "arc_backpack.smd"
 	studio "trooper_backpack.smd"
-	studio "gun_back.smd"
 	studio "trooper_jetpack.smd"
-	studio "spec_backpack.smd"
+	studio "gun_back.smd"
+	blank
 }
 $bodygroup "Chest Attachment"
 {
+	studio "arc_pauldron_chestplate.smd"
 	blank
-	studio "trooper_pauldron.smd"
-	studio "crewman_armour.smd"
-}
-$bodygroup "Shoulder Antenna"
-{
-	blank
-	studio "shoulder_antenna.smd"
 }
 $bodygroup "Kama"
 {
+	studio "arc_kama_legs.smd"
 	blank
-	studio "trooper_kama.smd"
-}
-$bodygroup "Holster Left"
-{
-	blank
-	studio "leg_holster_left.smd"
-	studio "kama_holster_left.smd"
-}
-$bodygroup "Holster Right"
-{
-	blank
-	studio "leg_holster_right.smd"
-	studio "kama_holster_right.smd"
-}
-$bodygroup "Gun Sling"
-{
-	blank
-	studio "gun_sling.smd"
 }
 $bodygroup "Belt Pouches"
 {
-	blank
 	studio "arc_belt_pouches.smd"
+	blank
 }
 
 $bodygroup "Hair"
