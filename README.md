@@ -16,7 +16,9 @@ painting new designs.
 A Substance project file can be found in the repo's releases containing the imported .obj and base textures.
 
 ## Bodygroups
+<details>
 This table lists the renamed bodygroups and their associated textures.
+
 |   Bodygroup                           |   Texture Maps                                                |
 |---------------------------------------|---------------------------------------------------------------|
 |   arc_backpack.smd                    |   arc_accessories
@@ -55,9 +57,12 @@ This table lists the renamed bodygroups and their associated textures.
 |   trooper_rangefinder_down.smd        |   rangefinder
 |   trooper_rangefinder_up.smd          |   rangefinder
 |   trooper_sunvisor.smd                |   sunvisor
+</details>
 
 ## Texture Maps
+<details>
 This table lists the renamed texture maps and their associated bodygroups.
+
 |   Texture Map                         |   Bodygroups                                                  |
 |---------------------------------------|---------------------------------------------------------------|
 |   arc_accessories                     |   arc_backpack.smd<br>arc_belt_pouches.smd<br>arc_kama_legs.smd
@@ -101,3 +106,4 @@ This table lists the renamed texture maps and their associated bodygroups.
 |   trooper_shoulder                    |   trooper_body_shoulder.smd
 |   undersuit                           |   trooper_body_shoulder.smd
 |   visor                               |   pilot_helmet.smd<br>spec_helmet<br>trooper_helmet.smd
+</details>
