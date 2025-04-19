@@ -33,7 +33,9 @@ This table lists the renamed bodygroups and their associated textures.<br>
 |   arc_pauldron_chestplate.smd         |   arc_pauldron<br>arc_chestplate
 |   arc_rangefinder_down.smd            |   rangefinder
 |   arc_rangefinder_up.smd              |   rangefinder
+|   arf_antenna.smd                     |   arf_antenna
 |   arf_helmet.smd                      |   arf_visor<br>arf_helmet
+|   arf_kilt.smd                        |   arf_kilt
 |   crewman_armour.smd                  |   crewman_shoulders<br>crewman_chestplate
 |   crewman_cap.smd                     |   crewman_helmet
 |   evo_body.smd                        |   evo_body<br>evo_backpack<br>evo_kama<br>evo_pouches
@@ -77,7 +79,9 @@ This table lists the renamed texture maps and their associated bodygroups.<br>
 |   arc_mag_plating                     |   arc_forearms.smd<br>arc_kama_legs.smd
 |   arc_pauldron                        |   arc_pauldron_chestplate.smd
 |   arc_visor                           |   arc_helmet.smd
+|   arf_antenna                         |   arf_antenna.smd
 |   arf_helmet                          |   arf_helmet.smd
+|   arf_kilt                            |   arf_kilt.smd
 |   arf_visor                           |   arf_helmet.smd
 |   binos                               |   trooper_binos_down.smd<br>trooper_binos_up.smd
 |   crewman_helmet                      |   crewman_cap.smd
