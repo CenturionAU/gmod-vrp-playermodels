@@ -37,15 +37,34 @@ $bodygroup "Back Attachment"
 	studio "gun_back.smd"
 	blank
 }
-$bodygroup "Chest Attachment"
+$bodygroup "ARC Armour"
 {
-	studio "arc_pauldron_chestplate.smd"
+	studio "arc_armour.smd"
+	blank
+}
+$bodygroup "ARC Pauldron"
+{
+	studio "arc_pauldron.smd"
 	blank
 }
 $bodygroup "Kama"
 {
-	studio "arc_kama_legs.smd"
+	studio "trooper_kama.smd"
+	balnk
+}
+$bodygroup "ARC Kama Pouches"
+{
+	studio "arc_kama_pouches.smd"
 	blank
+}
+$bodygroup "Holster Left"
+{
+	studio "kama_holster_left.smd"
+	blank
+}
+$bodygroup "Holster Right"
+{
+	studio "kama_holster_right.smd"
 }
 $bodygroup "Belt Pouches"
 {
