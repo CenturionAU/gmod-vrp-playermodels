@@ -36,6 +36,7 @@ This table lists the renamed bodygroups and their associated textures.<br>
 |   arf_antenna.smd                     |   arf_antenna
 |   arf_helmet.smd                      |   arf_visor<br>arf_helmet
 |   arf_kilt.smd                        |   arf_kilt
+|   back_antenna_gear.smd               |   bacara_back<br>snow_body
 |   crewman_armour.smd                  |   crewman_shoulders<br>crewman_chestplate
 |   crewman_cap.smd                     |   crewman_helmet
 |   evo_body.smd                        |   evo_body<br>evo_backpack<br>evo_kama<br>evo_pouches
@@ -83,6 +84,7 @@ This table lists the renamed texture maps and their associated bodygroups.<br>
 |   arf_helmet                          |   arf_helmet.smd
 |   arf_kilt                            |   arf_kilt.smd
 |   arf_visor                           |   arf_helmet.smd
+|   bacara_back                         |   back_antenna_gear.smd
 |   binos                               |   trooper_binos_down.smd<br>trooper_binos_up.smd
 |   crewman_helmet                      |   crewman_cap.smd
 |   crewman_chestplate                  |   crewman_armour.smd
@@ -104,7 +106,7 @@ This table lists the renamed texture maps and their associated bodygroups.<br>
 |   pilot_helmet_extension              |   pilot_helmet.smd
 |   rangefinder                         |   arc_rangefinder_down.smd<br>arc_rangefinder_down.smd<br>trooper_rangefinder_down.smd<br>trooper_rangefinder_up.smd
 |   shoulder_antenna                    |   shoulder_antenna.smd
-|   snow_body                           |   spec_backpack.smd<br>spec_helmet_antenna.smd
+|   snow_body                           |   spec_backpack.smd<br>spec_helmet_antenna.smd<br>back_antenna_gear.smd
 |   spec_helmet                         |   spec_helmet.smd
 |   spec_helmet_extension               |   spec_helmet.smd
 |   sunvisor                            |   trooper_sunvisor.smd
