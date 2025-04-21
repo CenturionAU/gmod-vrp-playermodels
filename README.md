@@ -34,6 +34,7 @@ This table lists the renamed bodygroups and their associated textures.<br>
 |   arc_rangefinder_down.smd            |   rangefinder
 |   arc_rangefinder_up.smd              |   rangefinder
 |   arf_antenna.smd                     |   arf_antenna
+|   arf_flashlight.smd                  |   flash
 |   arf_helmet.smd                      |   arf_visor<br>arf_helmet
 |   arf_kilt.smd                        |   arf_kilt
 |   back_antenna_gear.smd               |   bacara_back<br>snow_body
@@ -100,7 +101,7 @@ This table lists the renamed texture maps and their associated bodygroups.<br>
 |   evo_pouches                         |   evo_body.smd
 |   evo_rangefinder                     |   evo_helmet.smd
 |   evo_visor                           |   evo_helmet.smd
-|   flash                               |   trooper_flashlight.smd
+|   flash                               |   trooper_flashlight.smd<br>arf_flashlight.smd
 |   gun_sling                           |   gun_sling.smd
 |   holsters                            |   arc_kama_legs.smd<br>kama_holster_left.smd<br>kama_holster_right.smd<br>leg_holster_left.smd<br>leg_holster_right.smd
 |   jetpack                             |   trooper_jetpack.smd
