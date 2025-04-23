@@ -4,7 +4,12 @@ $modelname "COMMUNITY\DEVELOPER\REGIMENT\REGIMENT_MODEL.mdl"
 
 $bodygroup "Body"
 {
-	studio "trooper_body_shoulder.smd"
+	studio "trooper_body.smd"
+}
+$bodygroup "Shoulder"
+{
+	studio "trooper_shoulder.smd"
+	studio "trooper_shoulder_medic.smd"
 }
 $bodygroup "Helmet"
 {
