@@ -57,7 +57,7 @@ This table lists the renamed bodygroups and their associated textures.<br>
 |   trooper_backpack.smd                |   trooper_backpack
 |   trooper_binos_down.smd              |   binos
 |   trooper_binos_up.smd                |   binos
-|   trooper_body_shoulder.smd           |   trooper_body<br>trooper_shoulder<br>undersuit
+|   trooper_body.smd                    |   trooper_body<br>undersuit
 |   trooper_flashlight.smd              |   flash
 |   trooper_helmet.smd                  |   trooper_helmet<br>visor
 |   trooper_jetpack.smd                 |   jetpack
@@ -65,6 +65,8 @@ This table lists the renamed bodygroups and their associated textures.<br>
 |   trooper_pauldron.smd                |   trooper_pauldron
 |   trooper_rangefinder_down.smd        |   rangefinder
 |   trooper_rangefinder_up.smd          |   rangefinder
+|   trooper_shoulder.smd                |   trooper_shoulder
+|   trooper_shoulder_medic.smd          |   trooper_shoulder_medic
 |   trooper_sunvisor.smd                |   sunvisor
 </details>
 
@@ -117,7 +119,8 @@ This table lists the renamed texture maps and their associated bodygroups.<br>
 |   trooper_body                        |   trooper_body_shoulder.smd
 |   trooper_helmet                      |   pilot_helmet.smd<br>trooper_helmet.smd
 |   trooper_pauldron                    |   trooper_pauldron.smd
-|   trooper_shoulder                    |   trooper_body_shoulder.smd
+|   trooper_shoulder                    |   trooper_shoulder.smd
+|   trooper_shoulder_medic              |   trooper_shoulder_medic.smd
 |   undersuit                           |   trooper_body_shoulder.smd
 |   visor                               |   pilot_helmet.smd<br>spec_helmet<br>trooper_helmet.smd
 </details>
