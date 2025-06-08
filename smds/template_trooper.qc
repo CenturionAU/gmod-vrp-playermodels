@@ -50,9 +50,9 @@ $bodygroup "Rangefinder"
 $bodygroup "Back Attachment"
 {
 	blank
-	studio "trooper_backpack.smd"
+	studio "backpack.smd"
 	studio "gun_back.smd"
-	studio "trooper_jetpack.smd"
+	studio "jetpack.smd"
 	studio "spec_backpack.smd"
 }
 $bodygroup "Chest Attachment"
@@ -64,12 +64,13 @@ $bodygroup "Chest Attachment"
 $bodygroup "Shoulder Antenna"
 {
 	blank
-	studio "shoulder_antenna.smd"
+	studio "shoulder_antenna_left.smd"
+	studio "shoulder_antenna_right.smd"
 }
 $bodygroup "Kama"
 {
 	blank
-	studio "trooper_kama.smd"
+	studio "kama.smd"
 }
 $bodygroup "Holster Left"
 {

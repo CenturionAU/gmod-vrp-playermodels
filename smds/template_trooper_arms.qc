@@ -4,7 +4,7 @@ $modelname "COMMUNITY\DEVELOPER\REGIMENT\REGIMENT_MODEL_arms.mdl"
 
 $bodygroup "arms"
 {
-	studio "arm.smd"
+	studio "arms_troopper.smd"
 }
 
 
